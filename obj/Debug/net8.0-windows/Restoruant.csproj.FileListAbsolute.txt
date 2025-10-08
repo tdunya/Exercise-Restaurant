@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Restourant Exercise\obj\Debug\net8.0-windows\Restoruant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Restourant Exercise\obj\Debug\net8.0-windows\Restoruant.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Restourant Exercise\obj\Debug\net8.0-windows\Restoruant.AssemblyInfo.cs
+C:\Users\user\Desktop\Restourant Exercise\obj\Debug\net8.0-windows\Restoruant.csproj.CoreCompileInputs.cache
